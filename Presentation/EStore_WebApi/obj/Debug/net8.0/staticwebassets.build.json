@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "721tqqd8fnACei0dkJTdcQMldSDpZNN4BPNqq6/4WLg=",
+  "Source": "EStore_WebApi",
+  "BasePath": "_content/EStore_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

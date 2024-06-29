@@ -1,0 +1,1334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\presentation\\estore_webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|solutionrelative:presentation\\estore_webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\services\\paginationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\services\\paginationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\migrations\\20240628234509_mig-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\migrations\\20240628234509_mig-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\category\\getcategorybyid\\getcategorybyidqueryresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\category\\getcategorybyid\\getcategorybyidqueryresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\delete\\deletecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\delete\\deletecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\add\\addcategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\add\\addcategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\presentation\\estore_webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|solutionrelative:presentation\\estore_webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\add\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\add\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\add\\addcategorycommandresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\add\\addcategorycommandresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\delete\\deletecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\delete\\deletecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\delete\\deletecategorycommandresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\delete\\deletecategorycommandresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\category\\getcategorybyid\\getcategorybyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\category\\getcategorybyid\\getcategorybyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\update\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\update\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\update\\updatecategorycommandresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\update\\updatecategorycommandresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\command\\category\\update\\updatecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\command\\category\\update\\updatecategorycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\category\\getcategorybyid\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\category\\getcategorybyid\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\category\\getall\\getallcategoriesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\category\\getall\\getallcategoriesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\category\\getall\\getallcategoriesqueryresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\category\\getall\\getallcategoriesqueryresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\presentation\\estore_webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|solutionrelative:presentation\\estore_webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\product\\getall\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\product\\getall\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\product\\getall\\getallproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\product\\getall\\getallproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\category\\getall\\getallcategoriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\category\\getall\\getallcategoriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\behaviors\\query\\product\\getall\\getallproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\behaviors\\query\\product\\getall\\getallproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\viewmodels\\allcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\viewmodels\\allcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\common\\readgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\common\\readgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\categoryrepo\\readcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\categoryrepo\\readcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\common\\iwritegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\common\\iwritegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\dbcontexts\\estore_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\dbcontexts\\estore_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\presentation\\estore_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|solutionrelative:presentation\\estore_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\presentation\\estore_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|solutionrelative:presentation\\estore_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\estore_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\estore_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\productrepo\\readproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\productrepo\\readproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\categoryrepos\\ireadcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\categoryrepos\\ireadcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\categoryrepo\\writecategoyrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\categoryrepo\\writecategoyrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\viewmodels\\allordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\viewmodels\\allordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\viewmodels\\allcustomervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\viewmodels\\allcustomervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\estore_persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\estore_persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\concretes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\concretes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\concretes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\concretes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\common\\writegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\common\\writegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\abstracts\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\abstracts\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\viewmodels\\paginationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\viewmodels\\paginationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\migrations\\20240627094549_migmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\migrations\\20240627094549_migmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AA29B1-D98C-42B3-9C22-79BEB2C66E90}|Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_infrastructure\\estore_infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57AA29B1-D98C-42B3-9C22-79BEB2C66E90}|Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj|solutionrelative:infrastructures\\estore_infrastructure\\estore_infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\presentation\\estore_webapi\\estore_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D6BD920-3B21-4C29-8A8E-45C86A161420}|Presentation\\EStore_WebApi\\EStore_WebApi.csproj|solutionrelative:presentation\\estore_webapi\\estore_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\common\\ireadgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\common\\ireadgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\estore_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\estore_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\productrepo\\writeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\productrepo\\writeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\orderrepo\\writeorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\orderrepo\\writeorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\orderrepo\\readorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\orderrepo\\readorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\customerrepo\\writecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\customerrepo\\writecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\repositories\\customerrepo\\readcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\repositories\\customerrepo\\readcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\orderrepos\\ireadorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\orderrepos\\ireadorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\orderrepos\\iwriteorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\orderrepos\\iwriteorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\categoryrepos\\iwritecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\categoryrepos\\iwritecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\customerrepos\\iwritecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\customerrepos\\iwritecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\customerrepos\\ireadcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\customerrepos\\ireadcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\productrepos\\ireadproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\productrepos\\ireadproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_application\\repositories\\productrepos\\iwriteproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388C649E-4CCC-4BF3-92C9-E39F5BE2FF62}|Core\\EStore_Application\\EStore_Application.csproj|solutionrelative:core\\estore_application\\repositories\\productrepos\\iwriteproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch\\Infrastructures\\EStore_Persistence\\Migrations\\20240623231632_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AA29B1-D98C-42B3-9C22-79BEB2C66E90}|Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AA29B1-D98C-42B3-9C22-79BEB2C66E90}|Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj|solutionrelative:infrastructures\\estore_infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\infrastructures\\estore_persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20BD23-F927-4E2A-93D3-8FCE24D5A829}|Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj|solutionrelative:infrastructures\\estore_persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|c:\\users\\user\\desktop\\asp_homeworks\\api_1_2_onionarch - copy\\core\\estore_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B5FE0D-C579-4A08-AEC0-9EB5AB473FB8}|Core\\EStore_Domain\\EStore_Domain.csproj|solutionrelative:core\\estore_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:57:46.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCategoryByIdQueryResponce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryResponce.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryResponce.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryResponce.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:25:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240628234509_mig-1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Migrations\\20240628234509_mig-1.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Migrations\\20240628234509_mig-1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Migrations\\20240628234509_mig-1.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Migrations\\20240628234509_mig-1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:45:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\PaginationService.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Services\\PaginationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\PaginationService.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Services\\PaginationService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:29:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Presentation\\EStore_WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Presentation\\EStore_WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:30:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCategoryCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandRequest.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:56:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Presentation\\EStore_WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Presentation\\EStore_WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:30:10.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Services\\CategoryService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:47:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:57:06.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCategoryCommandResponce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandResponce.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandResponce.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandResponce.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Add\\AddCategoryCommandResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:56:53.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteCategoryCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandRequest.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:57:20.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCategoryCommandResponce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandResponce.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandResponce.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandResponce.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Delete\\DeleteCategoryCommandResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:57:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:40:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetCategoryByIdQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryRequest.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:24:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:38:43.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateCategoryCommandResponce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandResponce.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandResponce.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandResponce.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:38:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCategoryCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandRequest.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Command\\Category\\Update\\UpdateCategoryCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:38:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\ViewModels\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\CategoryVM.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\ViewModels\\CategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:33.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetCategoryByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetCategoryById\\GetCategoryByIdQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:24:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllCategoriesQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryRequest.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:12:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllCategoriesQueryResponce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryResponce.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryResponce.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryResponce.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:12:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\EStore_WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\EStore_WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:29:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:24:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:23:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllCategoriesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryHandler.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Category\\GetAll\\GetAllCategoriesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:11:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Behaviors\\Query\\Product\\GetAll\\GetAllProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:23:42.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\RegisterServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\RegisterServices.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\RegisterServices.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:14:28.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:47:34.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:47:43.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AllCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\AllCategoryVM.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\ViewModels\\AllCategoryVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\AllCategoryVM.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\ViewModels\\AllCategoryVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:01:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Services\\ProductService.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Services\\ProductService.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwGYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:48:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:40:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:40:40.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:34:11.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReadGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:44:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReadCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\ReadCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\ReadCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\ReadCategoryRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\ReadCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:10:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EStore_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\DBContexts\\EStore_DbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\DBContexts\\EStore_DbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\DBContexts\\EStore_DbContext.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\DBContexts\\EStore_DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:05:31.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\EStore_WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\EStore_WebApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:17:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IWriteGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\Common\\IWriteGenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:24:40.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\EStore_WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\appsettings.json",
+              "RelativeToolTip": "Presentation\\EStore_WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T23:06:37.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\RegisterServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\RegisterServices.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\RegisterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:53:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EStore_Application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\EStore_Application.csproj",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\EStore_Application.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\EStore_Application.csproj",
+              "RelativeToolTip": "Core\\EStore_Application\\EStore_Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T09:42:07.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReadProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\ReadProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\ReadProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\ReadProductRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\ReadProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:13:27.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:21.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReadCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CategoryRepos\\IReadCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\CategoryRepos\\IReadCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CategoryRepos\\IReadCategoryRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\CategoryRepos\\IReadCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:35:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WriteCategoyrRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\WriteCategoyrRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\WriteCategoyrRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\WriteCategoyrRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\CategoryRepo\\WriteCategoyrRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:11:40.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AllOrdersVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\AllOrdersVM.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\ViewModels\\AllOrdersVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\AllOrdersVM.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\ViewModels\\AllOrdersVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:00:19.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AllCustomerVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\AllCustomerVM.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\ViewModels\\AllCustomerVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\AllCustomerVM.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\ViewModels\\AllCustomerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:59:52.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EStore_Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\EStore_Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T09:41:53.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Concretes\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Category.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Concretes\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:45:54.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WriteGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\Common\\WriteGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\Common\\WriteGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\Common\\WriteGenericRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\Common\\WriteGenericRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:44:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Concretes\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Order.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Concretes\\Order.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:36:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Concretes\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Customer.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Concretes\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:38:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\Common\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:45:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Concretes\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Concretes\\Product.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Concretes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:45:39.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:44:30.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Abstracts\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Abstracts\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Abstracts\\IBaseEntity.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Abstracts\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:44:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PaginationVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\PaginationVM.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\ViewModels\\PaginationVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\ViewModels\\PaginationVM.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\ViewModels\\PaginationVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:43:51.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240627094549_migmig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Migrations\\20240627094549_migmig.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Migrations\\20240627094549_migmig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Migrations\\20240627094549_migmig.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Migrations\\20240627094549_migmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:45:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EStore_Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructures\\EStore_Infrastructure\\EStore_Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T09:41:23.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EStore_WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\EStore_WebApi.csproj",
+              "RelativeDocumentMoniker": "Presentation\\EStore_WebApi\\EStore_WebApi.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Presentation\\EStore_WebApi\\EStore_WebApi.csproj",
+              "RelativeToolTip": "Presentation\\EStore_WebApi\\EStore_WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T22:31:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IReadGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\Common\\IReadGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:25:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EStore_Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\EStore_Domain.csproj",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\EStore_Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\EStore_Domain.csproj",
+              "RelativeToolTip": "Core\\EStore_Domain\\EStore_Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T21:41:29.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "WriteOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\WriteOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\WriteOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\WriteOrderRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\WriteOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:14:15.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "WriteProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\WriteProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\WriteProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\WriteProductRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\ProductRepo\\WriteProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:13:15.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ReadOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\ReadOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\ReadOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\ReadOrderRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\OrderRepo\\ReadOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:14:30.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "WriteCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\WriteCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\WriteCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\WriteCustomerRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\WriteCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:14:00.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ReadCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\ReadCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\ReadCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\ReadCustomerRepository.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Repositories\\CustomerRepo\\ReadCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:13:50.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IReadOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\OrderRepos\\IReadOrderRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\OrderRepos\\IReadOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\OrderRepos\\IReadOrderRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\OrderRepos\\IReadOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:36:12.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IWriteOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\OrderRepos\\IWriteOrderRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\OrderRepos\\IWriteOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\OrderRepos\\IWriteOrderRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\OrderRepos\\IWriteOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:36:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\Common\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\Common\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\Common\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\Common\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:24:21.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IWriteCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CategoryRepos\\IWriteCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\CategoryRepos\\IWriteCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CategoryRepos\\IWriteCategoryRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\CategoryRepos\\IWriteCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:35:41.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IWriteCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CustomerRepos\\IWriteCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\CustomerRepos\\IWriteCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CustomerRepos\\IWriteCustomerRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\CustomerRepos\\IWriteCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:36:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IReadCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CustomerRepos\\IReadCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\CustomerRepos\\IReadCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\CustomerRepos\\IReadCustomerRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\CustomerRepos\\IReadCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:36:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IReadProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\ProductRepos\\IReadProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\ProductRepos\\IReadProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\ProductRepos\\IReadProductRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\ProductRepos\\IReadProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:33:38.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IWriteProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\ProductRepos\\IWriteProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Application\\Repositories\\ProductRepos\\IWriteProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Application\\Repositories\\ProductRepos\\IWriteProductRepository.cs",
+              "RelativeToolTip": "Core\\EStore_Application\\Repositories\\ProductRepos\\IWriteProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:33:24.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240623231632_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch\\Infrastructures\\EStore_Persistence\\Migrations\\20240623231632_mig2.cs",
+              "RelativeDocumentMoniker": "..\\Api_1_2_OnionArch\\Infrastructures\\EStore_Persistence\\Migrations\\20240623231632_mig2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch\\Infrastructures\\EStore_Persistence\\Migrations\\20240623231632_mig2.cs",
+              "RelativeToolTip": "..\\Api_1_2_OnionArch\\Infrastructures\\EStore_Persistence\\Migrations\\20240623231632_mig2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:16:33.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:34:01.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\EStore_Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Infrastructures\\EStore_Persistence\\Class1.cs",
+              "RelativeToolTip": "Infrastructures\\EStore_Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:32:51.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\EStore_Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp_HomeWorks\\Api_1_2_OnionArch - Copy\\Core\\EStore_Domain\\Class1.cs",
+              "RelativeToolTip": "Core\\EStore_Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:30:52.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
